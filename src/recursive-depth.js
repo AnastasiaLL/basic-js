@@ -1,7 +1,7 @@
 const { NotImplementedError } = require('../extensions/index.js');
 
 /**
- * Привет НАСТЯ!!!!
+
  * Implement class DepthCalculator with method calculateDepth
  * that calculates deoth of nested array
  * 
